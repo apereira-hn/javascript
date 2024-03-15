@@ -18,7 +18,5 @@ const uniqueArrayChecker = (inputArray) => {
   return true;
 };
 
-const validArray = [2, 5, 6, 3, 8, 4, 9, 1, 7];
-const invalidArray = [2, 2, 6, 3, 8, 4, 9, 8, 7];
-
-console.log("Is the input array valid? ", uniqueArrayChecker(invalidArray));
+// const invalidArray = [2, 2, 6, 3, 8, 4, 9, 8, 7];
+// console.log("Is the input array valid? ", uniqueArrayChecker(invalidArray));
